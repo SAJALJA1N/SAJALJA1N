@@ -2,10 +2,10 @@
 <h3 align="center">Software Engineer | AI/ML Enthusiast | Backend & GenAI Systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://codeforces.com/profile/YOUR-CODEFORCES"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sajaljain0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jainsajal1503@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Sajal_jainn/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codeforces.com/profile/Drippyy"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
 
 ---
@@ -69,15 +69,14 @@
 
 ### 🧩 Featured Projects
 
-#### 🖥️ [Online Judge Platform](https://github.com/SAJALJA1N/online-judge-platform)
+#### 🖥️ [Online Judge Platform](https://github.com/SAJALJA1N/Online_Judge_Platform)
 `Node.js` `Express.js` `MongoDB` `AWS` `Docker` `JWT` `Gemini API`
 End-to-end LLM-powered online judge with real-time AI code review. Google OAuth 2.0 + JWT auth, serverless deployment on AWS Lambda/S3/CloudFront, and Docker-based sandboxing to securely isolate untrusted code execution.
 
-#### 📄 [AI Research Paper Assistant](https://github.com/SAJALJA1N/ai-research-assistant)
+#### 📄 [AI Research Paper Assistant](https://github.com/SAJALJA1N/AI-Research_Paper_Assistant)
 `Python` `LangChain` `OpenAI API` `FAISS` `NLP` `Streamlit`
 GenAI-powered assistant that summarizes and answers questions over complex research papers using a RAG pipeline (LangChain + FAISS) for source-grounded responses, with an interactive Streamlit chat interface.
 
-> 🔗 Replace the links above with your actual repo URLs.
 
 ---
 
